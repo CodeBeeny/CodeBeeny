@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Sahil (CodeBeeny)!
 ### 🚀 Full-Stack Developer | Java Specialist | AI/ML Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=43f012&center=true&vCenter=true&width=435&lines=Building+Premium+User+Experiences;Scalable+Backend+Architectures;AI-Powered+Automation;Java+Spring+Boot+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=43f012&center=true&vCenter=true&width=435&lines=Building+Premium+User+Experiences;Scalable+Backend+Architectures;AI-World+Explorer;Java+Spring+Boot+Practitioner)](https://git.io/typing-svg)
 
 ---
 
@@ -23,7 +23,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🌩️ [Crisis-Sync](https://github.com/CodeBeeny/crisis-sync)** | Real-time disaster relief platform with live localization & volunteer tracking. | `React` `Node.js` `Socket.io` |
-| **🎓 [Student Manager](https://github.com/CodeBeeny/student-management)** | Enterprise-grade ERP system with RBAC security and automated reporting. | `Spring Boot` `PostgreSQL` |
+| **🎓 [Student Manager](https://github.com/CodeBeeny/student-management)** | Enterprise-grade ERP system with RBAC security and automated reporting. | `Spring Boot` `MongoDB` |
 | **🚘 [Vehicle Detection](https://github.com/CodeBeeny/VehicleDetection)** | AI-powered traffic monitor using YOLOv3 for accident analytics. | `Python` `OpenCV` `YOLO` |
 | **🧠 [Emotion Analyzer](https://github.com/CodeBeeny/emotion-analyzer)** | NLP-based tone analysis tool with 90%+ classification accuracy. | `TensorFlow` `NLTK` |
 
