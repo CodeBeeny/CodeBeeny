@@ -37,12 +37,12 @@
 
 ---
 
-### 📊 My Contribution Stats
+### 📉 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeBeeny&show_icons=true&theme=dark&hide_border=true&bg_color=121212&text_color=ffffff&icon_color=43f012" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBeeny&layout=compact&theme=dark&hide_border=true&bg_color=121212&text_color=ffffff" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeBeeny&bg_color=121212&color=43f012&line=43f012&point=ffffff&hide_border=true" width="100%" />
 </p>
+
 
 ---
 
