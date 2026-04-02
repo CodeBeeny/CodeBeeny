@@ -1,0 +1,59 @@
+# 👋 Hi, I'm Sahil (CodeBeeny)!
+### Full-Stack Developer | Java Specialist | AI Enthusiast
+
+I’m a software engineer passionate about building high-impact, real-time applications that solve complex problems. Currently, I'm focusing on creating "premium" user experiences and scalable backend architectures.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌩️ [Crisis-Sync](https://github.com/CodeBeeny/crisis-sync)
+*Real-Time Disaster Relief & Coordination Platform*
+- **The Problem**: Lack of real-time communication during natural disasters.
+- **The Solution**: A multi-user platform for emergency requests, volunteer tracking, and resource allocation.
+- **Stack**: React, Node.js, Socket.io, Leaflet.js
+- **Key Features**: Live request localization, glassmorphism UI, interactive safety checklists.
+
+#### 🎓 [Student Data Manager](https://github.com/CodeBeeny/student-management)
+*Full-Stack Enterprise Management System*
+- **The Problem**: Inefficient student-teacher data tracking in large institutions.
+- **The Solution**: A robust system for managing grades, attendance, and schedules with secure access.
+- **Stack**: Java (Spring Boot), PostgreSQL, React, JWT
+- **Key Features**: Role-based access control (RBAC), automated report generation, RESTful API.
+
+#### 🧠 [Emotion Analyzer](https://github.com/CodeBeeny/emotion-analyzer)
+*Machine Learning Content Analysis*
+- **The Problem**: Identifying sentiment and emotional tone in unstructured text.
+- **The Solution**: An NLP-based model that classifies emotions with 90%+ accuracy.
+- **Stack**: Python, TensorFlow/Keras, NLTK
+- **Key Features**: Real-time text processing, visual data insights, multi-label classification.
+
+---
+
+### 🛠️ Tech Stack
+
+| **Area** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+---
+
+### 📈 Stats & Impact
+- 🏆 **Hackathon Finalist**: Crisis-Sync winner for "Social Impact".
+- 💻 **Open Source**: Contributed to 3+ community projects.
+- 📚 **Lifelong Learner**: Currently exploring Microservices and Distributed Systems.
+
+---
+
+### 📫 Connect with Me
+- 🌐 [Portfolio Website](https://codebeeny.com)
+- 💼 [LinkedIn](https://linkedin.com/in/codebeeny)
+- 🐦 [Twitter](https://twitter.com/codebeeny)
+- 📧 [Email](mailto:contact@codebeeny.com)
+
+<p align="center">
+  <i>"Code is poetry, and I try to write elegantly."</i>
+</p>
